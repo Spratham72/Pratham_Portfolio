@@ -6,6 +6,7 @@
       "createdAt": "2021-09-25T16:26:54Z",
       "url": "https://github.com/Spratham72/ubuyClone",
       "description": "The Clone of the e-commerce website. Implemented all the animations (including carousals) or hovers using JavaScript, HTML, and CSS, we made dynamic pages for displaying product description, Cart page and Wishlist page using JavaScript(DOM, local storage)",
+      "deploylink": "https://61d72cf0b3c5ae6553f5c486--confident-leavitt-0b1ccf.netlify.app/index.html",
       "isFork": false,
       "languages": [
         {
@@ -28,6 +29,7 @@
       "createdAt": "2021-11-26T11:53:55Z",
       "url": "https://github.com/RajP62/Smallcase",
       "description": "This project is a complete full stack web application with user authenticatication and authorization",
+      "deploylink": "https://smallcaseproject.herokuapp.com/home",
       "isFork": false,
       "languages": [
         {
