@@ -43,6 +43,9 @@ class Projects extends Component {
           {ProjectsData.data.map((repo) => {
             return (
               <>
+                <button style={{ border: "none" }}>
+                  <img style={{ width: "100%" }} src={repo.src}></img>
+                </button>
                 <GithubRepoCard repo={repo} theme={theme} />{" "}
               </>
             );
